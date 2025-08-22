@@ -1,0 +1,2 @@
+# grlite
+Embeddable Graph Database
